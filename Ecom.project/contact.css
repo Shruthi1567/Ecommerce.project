@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+   margin-top: 20px;
+    justify-content: space-around;
+}
+h1{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+header{
+    background-color: rgb(152, 188, 213);
+   height:100px;
+   margin-top: -20px;
+}
+ ul li{
+    display: inline; 
+
+} 
+ul li a{
+    padding: 20px;
+    text-decoration: none;
+    color: black;
+    margin-top: 10px;
+
+}
+.pages{
+    margin-left:400px;
+    position:relative;
+    top:-20px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+
+.buton{
+    margin-left: 1050px;
+    position:relative;
+    top:-50px;
+
+}
+button{
+    padding: 10px 20px;
+     margin: 0px 20px; 
+    border-radius: 5px;
+}
+button:active{
+    background-color: black;
+    color:white;
+}
+
+
+
+form{
+    text-align: center;
+    padding:20px;
+}
+h2{
+    text-align: center;
+}
+input{
+    margin-left: 180px;
+    padding:10px;
+    border-radius: 5px;
+    width:200px;
+}
+
+.Msg{
+    text-align: center;
+   
+}
+.Msg input{
+
+  padding:50px;
+  width:200px;
+  height:100px;
+}
+.button1{
+    margin-left: 770px;
+    margin-top: 40px;
+    width:50px;
+    color:white;
+    border-radius: 5px;
+}
+p{
+    text-align: center;
+    margin-left: 150px;
+}

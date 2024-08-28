@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+   margin-top: 20px;
+    justify-content: space-around;
+}
+h1{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+header{
+    background-color: rgb(152, 188, 213);
+   height:100px;
+   margin-top: -20px;
+}
+ ul li{
+    display: inline; 
+
+} 
+ul li a{
+    padding: 20px;
+    text-decoration: none;
+    color: black;
+    margin-top: 10px;
+
+}
+.pages{
+    margin-left:400px;
+    position:relative;
+    top:-20px;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+
+.buton{
+    margin-left: 1050px;
+    position:relative;
+    top:-50px;
+
+}
+button{
+    padding: 10px 20px;
+     margin: 0px 20px; 
+    border-radius: 5px;
+}
+button:active{
+    background-color: black;
+    color:white;
+}
+
+h2{
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+form{
+    text-align: center;
+    margin-top: 50px;
+}
+input{
+    padding:10px;
+    width:200px;
+    border-radius: 5px;
+    margin-left: 100px;
+}
+label{
+    /* margin-right: 120px; */
+    font-size: large;
+}
+.btn2{
+    border-radius: 5px;
+    padding:10px;
+   margin-left: 50px;
+   color: white;
+   margin-top: 10px;
+   display:block;
+}
+
+button:active{
+    background-color: rgb(60, 49, 49);
+}
+p{
+    margin-top: 20px;
+    margin-left: 100px;
+}
+.one{
+    text-align: center;
+}
+.btn1{
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.text1{
+    text-align: center;
+}
